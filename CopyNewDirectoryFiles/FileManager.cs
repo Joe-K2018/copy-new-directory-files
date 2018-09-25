@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace CopyNewDirectory
+namespace COpyNewDirectoryFiles
 {
     class FileManager
     {

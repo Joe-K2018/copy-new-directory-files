@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4ECF00A6-EAF9-4211-9BF1-B66762BC2702}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PhotoCopy</RootNamespace>
-    <AssemblyName>PhotoCopy</AssemblyName>
+    <RootNamespace>CopyNewDirectoryFiles</RootNamespace>
+    <AssemblyName>CopyNewDirectoryFiles</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

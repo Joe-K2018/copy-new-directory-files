@@ -3,7 +3,7 @@ using System.Configuration;
 using System.IO;
 using System.Linq;
 
-namespace CopyNewDirectory
+namespace COpyNewDirectoryFiles
 {
     class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyNewDirectory", "PhotoCopy\CopyNewDirectory.csproj", "{4ECF00A6-EAF9-4211-9BF1-B66762BC2702}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyNewDirectoryFiles", "CopyNewDirectoryFiles\CopyNewDirectoryFiles.csproj", "{4ECF00A6-EAF9-4211-9BF1-B66762BC2702}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace CopyNewDirectory
+namespace COpyNewDirectoryFiles
 {
     static public class ExtensionMethods
     {
